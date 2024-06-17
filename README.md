@@ -2,7 +2,7 @@
 
 Então professor. O trabalho eu achei muito complicado mesmo. Tive que caçar videos no youtube, verificar implementações, não ficou claro se no trabalho era pra ser algo simples
 ou algo que fosse 100% funcional tudo. Então eu escolhi fazer inicialmente com python pra depois migrar pro java. Passei o dia 15-16 fazendo o trabalho e buscando alternativas. Fiz o modelo do artigo
-certinho mas em relação ao trabalho poderá haver erros.
+certinho mas em relação ao trabalho poderá haver erros. O programa não tem muito pra onde sair, são executados prompts utilizando uns comandos prontos, e pra cada funcionalidade é, bom, era pra ser, feito exatamente o que e dito no nome da função, exemplo criar arquivo, o prompt pede pra vc criar um arquivo, renomear arquivo, pede pra renomear e etc..
 
 - lista de arquivos ela é criada
 - Criação de um arquivo
